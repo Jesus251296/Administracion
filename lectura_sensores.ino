@@ -1,4 +1,6 @@
 /*Sensor de Temperatura, Humedad y Humo con snmpd*/
+/*HOLA Mundo*/
+
 #include <FileIO.h> //incluye la libreria de archivos
 #include <LiquidCrystal.h> //incluye libreira LCD
 LiquidCrystal lcd(8,9,10,11,12,13); // (rs, enable, pines)
